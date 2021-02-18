@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "s3demo"
+  "defaultProject": "s3demo",
+  "cli": {
+    "analytics": "527bad68-c73a-4893-b62c-25fddfcc6bc9"
+  }
 }
